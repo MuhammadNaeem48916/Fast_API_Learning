@@ -1,0 +1,601 @@
+age,weight,height,income_lpa,smoker,city,occupation,insurance_premium_category
+26,65,187,49.32,Yes,Karachi,Doctor,High
+44,62,154,2.18,Yes,Islamabad,Driver,Medium
+32,67,171,33.85,No,Rawalpindi,Doctor,High
+26,86,155,34.19,No,Faisalabad,Farmer,High
+37,80,161,45.55,Yes,Karachi,Farmer,High
+54,51,152,26.85,Yes,Lahore,Driver,Medium
+23,58,158,9.49,Yes,Rawalpindi,Businessman,High
+46,72,177,6.96,No,Quetta,Software Developer,Low
+41,76,167,7.8,Yes,Karachi,Teacher,Low
+32,98,161,36.05,No,Faisalabad,Farmer,Medium
+29,92,178,3.81,No,Faisalabad,Driver,High
+38,60,188,45.95,Yes,Multan,Teacher,Low
+22,82,179,41.8,No,Karachi,Software Developer,Medium
+38,81,189,10.4,Yes,Lahore,Teacher,Low
+64,91,185,3.09,Yes,Multan,Driver,High
+33,95,189,12.34,Yes,Peshawar,Doctor,Low
+58,66,161,30.04,No,Faisalabad,Farmer,High
+39,65,174,40.45,Yes,Karachi,Engineer,High
+35,51,176,47.44,Yes,Karachi,Shopkeeper,High
+65,69,183,11.72,No,Lahore,Shopkeeper,Low
+46,98,161,29.98,Yes,Rawalpindi,Shopkeeper,Low
+39,76,163,13.56,No,Lahore,Engineer,Low
+60,96,154,9.02,No,Lahore,Doctor,Medium
+35,95,171,6.11,No,Rawalpindi,Driver,Medium
+59,71,155,2.77,Yes,Karachi,Software Developer,Medium
+29,53,151,39.03,Yes,Quetta,Software Developer,Low
+30,88,163,9.2,No,Multan,Businessman,Medium
+41,78,166,48.96,Yes,Peshawar,Engineer,Medium
+49,86,154,11.33,Yes,Multan,Teacher,High
+44,81,162,47.3,Yes,Rawalpindi,Doctor,Low
+21,92,185,32.97,Yes,Karachi,Software Developer,Medium
+47,77,187,35.36,No,Faisalabad,Engineer,Low
+44,71,170,12.92,No,Faisalabad,Driver,Medium
+26,77,155,15.15,No,Karachi,Shopkeeper,High
+20,63,178,24.23,No,Faisalabad,Doctor,High
+56,92,173,46.12,No,Karachi,Software Developer,Medium
+55,69,175,39.76,Yes,Quetta,Engineer,Low
+50,86,190,48.27,No,Islamabad,Doctor,Medium
+28,70,170,40.65,No,Peshawar,Software Developer,Medium
+39,62,188,44.05,No,Karachi,Shopkeeper,Medium
+43,63,153,6.63,Yes,Rawalpindi,Driver,High
+65,68,164,28.65,Yes,Islamabad,Farmer,High
+31,59,188,21.72,No,Islamabad,Driver,High
+47,71,166,15.77,Yes,Rawalpindi,Businessman,High
+24,62,152,7.12,Yes,Quetta,Shopkeeper,Low
+19,91,175,10.26,Yes,Islamabad,Shopkeeper,Low
+21,62,169,20.97,No,Faisalabad,Businessman,High
+28,58,187,37.19,No,Quetta,Shopkeeper,Low
+29,66,159,28.58,Yes,Multan,Businessman,Medium
+57,90,170,43.98,No,Rawalpindi,Software Developer,Low
+19,91,152,10.0,No,Faisalabad,Shopkeeper,Low
+32,68,181,39.78,Yes,Faisalabad,Teacher,Low
+63,75,150,2.92,No,Peshawar,Farmer,Medium
+48,90,151,8.34,No,Lahore,Businessman,Low
+59,64,177,31.64,Yes,Karachi,Driver,Medium
+61,62,174,14.29,Yes,Rawalpindi,Doctor,Low
+39,80,156,18.32,No,Karachi,Engineer,Low
+40,89,189,44.83,Yes,Quetta,Farmer,Low
+20,98,159,17.85,No,Islamabad,Software Developer,Low
+65,58,181,47.64,Yes,Faisalabad,Doctor,Low
+55,51,185,20.56,Yes,Peshawar,Doctor,Medium
+47,91,169,8.89,Yes,Quetta,Driver,Medium
+31,96,162,6.29,Yes,Lahore,Software Developer,Medium
+24,97,150,46.47,Yes,Faisalabad,Farmer,Medium
+43,93,180,8.66,Yes,Peshawar,Businessman,Low
+56,65,164,18.57,Yes,Islamabad,Doctor,Low
+28,66,150,46.73,No,Peshawar,Doctor,High
+55,60,164,23.86,Yes,Faisalabad,Farmer,High
+56,92,154,6.13,No,Islamabad,Doctor,Low
+43,51,178,16.24,Yes,Faisalabad,Businessman,Low
+65,75,188,37.39,Yes,Lahore,Teacher,High
+42,70,179,44.12,No,Islamabad,Shopkeeper,High
+56,59,154,37.65,Yes,Lahore,Engineer,Medium
+37,99,186,34.96,No,Peshawar,Doctor,High
+23,86,180,28.74,Yes,Rawalpindi,Engineer,High
+50,60,154,26.87,Yes,Quetta,Driver,Low
+50,59,180,8.9,No,Lahore,Businessman,Low
+52,61,180,41.35,Yes,Karachi,Farmer,Low
+32,56,155,25.96,Yes,Lahore,Engineer,High
+19,58,187,14.35,No,Islamabad,Driver,Low
+62,63,154,25.39,No,Quetta,Engineer,High
+31,78,185,38.72,No,Multan,Businessman,High
+26,97,153,24.01,Yes,Multan,Software Developer,Medium
+21,64,162,18.81,No,Faisalabad,Doctor,High
+50,71,175,5.78,Yes,Rawalpindi,Shopkeeper,Medium
+31,72,169,47.51,Yes,Karachi,Teacher,Low
+53,76,171,41.28,Yes,Karachi,Shopkeeper,Medium
+41,54,150,12.07,No,Multan,Shopkeeper,Low
+56,59,174,40.69,No,Multan,Engineer,Medium
+57,83,164,36.56,Yes,Multan,Driver,Low
+55,88,184,39.86,No,Multan,Teacher,High
+38,95,168,11.81,Yes,Karachi,Doctor,Low
+45,92,185,24.38,Yes,Karachi,Doctor,High
+42,81,189,10.27,No,Multan,Teacher,Medium
+28,89,183,11.06,No,Faisalabad,Driver,Low
+41,80,170,48.01,No,Islamabad,Shopkeeper,Low
+31,56,161,45.74,Yes,Quetta,Driver,High
+22,72,172,15.41,Yes,Multan,Farmer,High
+63,96,187,40.47,No,Multan,Teacher,Medium
+51,78,172,6.96,No,Karachi,Software Developer,High
+29,78,155,13.78,No,Faisalabad,Businessman,Low
+20,62,160,48.84,Yes,Quetta,Software Developer,Medium
+56,93,150,12.75,No,Faisalabad,Driver,Low
+59,83,180,16.58,No,Karachi,Teacher,Medium
+62,64,168,44.42,No,Quetta,Shopkeeper,High
+22,99,158,26.33,Yes,Rawalpindi,Shopkeeper,Low
+42,51,186,29.93,Yes,Islamabad,Businessman,Low
+30,71,180,15.1,Yes,Peshawar,Shopkeeper,Medium
+42,62,169,13.54,No,Multan,Teacher,High
+55,80,189,6.35,Yes,Lahore,Teacher,High
+60,65,166,9.56,Yes,Rawalpindi,Doctor,High
+56,76,170,47.99,No,Quetta,Doctor,Medium
+40,75,176,3.03,Yes,Rawalpindi,Farmer,Low
+61,54,187,47.71,Yes,Peshawar,Shopkeeper,High
+28,94,176,46.62,Yes,Quetta,Shopkeeper,Low
+29,70,184,41.86,No,Faisalabad,Engineer,Low
+22,64,153,38.64,No,Rawalpindi,Software Developer,High
+29,56,161,7.34,No,Quetta,Businessman,High
+21,53,175,10.25,Yes,Lahore,Software Developer,High
+61,80,180,43.71,Yes,Multan,Teacher,Medium
+24,56,189,41.87,Yes,Faisalabad,Shopkeeper,Low
+57,58,158,23.92,No,Lahore,Shopkeeper,High
+39,65,183,7.63,No,Peshawar,Driver,High
+58,63,176,42.35,No,Faisalabad,Software Developer,Low
+37,60,177,21.23,No,Multan,Driver,Low
+39,55,187,28.06,Yes,Multan,Doctor,Low
+34,92,150,18.53,Yes,Karachi,Farmer,High
+59,70,179,34.99,Yes,Quetta,Doctor,Medium
+56,80,176,15.4,No,Islamabad,Farmer,Medium
+19,64,177,23.42,No,Multan,Engineer,Low
+30,60,158,15.33,No,Rawalpindi,Software Developer,Low
+64,92,166,8.41,No,Lahore,Farmer,Medium
+52,55,164,19.05,Yes,Faisalabad,Shopkeeper,Medium
+24,60,180,23.98,Yes,Lahore,Teacher,Low
+58,60,167,9.93,No,Lahore,Farmer,Low
+36,100,157,49.96,No,Faisalabad,Teacher,Low
+41,100,169,12.85,No,Lahore,Farmer,High
+19,58,150,3.15,Yes,Multan,Driver,High
+55,90,161,15.55,Yes,Karachi,Shopkeeper,High
+57,82,157,41.08,No,Lahore,Businessman,High
+43,98,183,11.91,No,Karachi,Engineer,Low
+28,96,189,7.67,No,Peshawar,Shopkeeper,High
+48,78,156,35.57,No,Lahore,Farmer,High
+46,91,182,24.03,No,Quetta,Businessman,Low
+65,75,157,10.81,Yes,Islamabad,Farmer,Medium
+40,58,182,27.13,Yes,Lahore,Driver,Low
+40,100,162,24.43,No,Islamabad,Shopkeeper,Medium
+56,80,168,8.47,No,Islamabad,Driver,Low
+25,84,185,37.57,Yes,Rawalpindi,Software Developer,Medium
+49,78,187,44.69,Yes,Faisalabad,Doctor,Low
+50,97,163,41.37,Yes,Lahore,Farmer,Low
+60,89,169,30.86,No,Rawalpindi,Shopkeeper,Low
+61,61,173,11.4,No,Karachi,Teacher,Medium
+34,100,180,17.1,No,Islamabad,Teacher,High
+25,94,158,40.0,No,Karachi,Farmer,Low
+65,65,170,42.95,Yes,Multan,Software Developer,Low
+24,79,168,3.24,No,Multan,Shopkeeper,High
+52,51,187,29.24,No,Lahore,Software Developer,Medium
+51,91,151,30.19,No,Rawalpindi,Engineer,Low
+24,94,179,49.32,Yes,Lahore,Doctor,High
+61,61,175,46.09,No,Quetta,Farmer,Medium
+52,99,183,8.6,Yes,Karachi,Software Developer,Low
+39,86,152,4.47,Yes,Lahore,Businessman,Low
+40,87,186,18.22,No,Islamabad,Engineer,Medium
+49,57,180,26.57,Yes,Faisalabad,Farmer,Medium
+28,87,186,12.04,Yes,Rawalpindi,Businessman,High
+50,53,153,23.1,Yes,Multan,Engineer,Low
+42,91,156,37.71,Yes,Faisalabad,Farmer,High
+55,85,153,8.08,No,Karachi,Software Developer,High
+37,52,189,9.93,No,Peshawar,Doctor,Medium
+60,76,154,18.03,No,Islamabad,Shopkeeper,Low
+26,89,188,21.43,Yes,Multan,Driver,High
+32,68,159,4.2,No,Peshawar,Teacher,Low
+57,83,152,43.77,No,Quetta,Shopkeeper,High
+36,79,170,2.73,No,Multan,Shopkeeper,Medium
+33,50,189,32.07,Yes,Karachi,Software Developer,Low
+20,92,176,28.48,No,Multan,Businessman,Low
+27,98,150,21.9,No,Peshawar,Shopkeeper,Low
+45,76,180,7.98,Yes,Peshawar,Farmer,Low
+29,89,183,48.2,No,Quetta,Businessman,Medium
+29,94,167,3.24,No,Lahore,Shopkeeper,Low
+31,82,167,27.26,No,Multan,Doctor,Medium
+42,99,170,16.18,Yes,Quetta,Engineer,High
+53,77,164,25.98,No,Karachi,Driver,Medium
+28,53,189,48.95,No,Karachi,Businessman,Medium
+37,98,153,49.3,No,Faisalabad,Engineer,Low
+61,86,184,25.19,No,Peshawar,Software Developer,High
+58,92,164,19.42,No,Faisalabad,Businessman,Medium
+37,93,156,12.53,Yes,Multan,Businessman,Low
+52,82,174,44.47,No,Lahore,Software Developer,High
+44,97,182,41.9,No,Faisalabad,Farmer,Medium
+49,70,152,30.85,No,Islamabad,Businessman,High
+22,80,174,20.89,Yes,Quetta,Teacher,Low
+36,50,187,20.95,No,Rawalpindi,Shopkeeper,High
+64,85,152,36.85,No,Quetta,Farmer,Medium
+47,60,162,20.19,No,Faisalabad,Driver,Low
+53,92,162,25.6,Yes,Peshawar,Doctor,Medium
+49,84,166,10.56,Yes,Multan,Driver,Medium
+57,66,168,36.06,Yes,Peshawar,Doctor,Low
+22,75,177,45.68,No,Quetta,Businessman,Low
+58,50,150,48.71,Yes,Faisalabad,Teacher,Medium
+35,70,171,2.25,Yes,Karachi,Shopkeeper,Medium
+44,56,181,10.04,Yes,Multan,Engineer,High
+60,76,159,2.21,Yes,Peshawar,Farmer,High
+29,90,150,24.27,No,Faisalabad,Businessman,High
+47,60,177,31.75,Yes,Multan,Engineer,Low
+49,65,157,31.54,No,Lahore,Software Developer,High
+57,68,177,28.58,No,Peshawar,Shopkeeper,High
+19,100,175,38.16,No,Faisalabad,Farmer,Low
+59,69,186,21.45,No,Peshawar,Teacher,Low
+22,87,160,28.08,No,Rawalpindi,Teacher,High
+26,51,168,13.2,Yes,Quetta,Businessman,Low
+61,54,152,14.85,Yes,Rawalpindi,Farmer,Medium
+47,51,155,26.73,No,Lahore,Farmer,Low
+53,86,172,49.7,No,Karachi,Engineer,High
+32,86,156,12.56,No,Karachi,Shopkeeper,High
+32,70,160,13.86,Yes,Islamabad,Businessman,Medium
+54,80,154,25.31,Yes,Karachi,Businessman,High
+25,88,173,14.63,No,Faisalabad,Farmer,High
+46,60,184,48.54,No,Islamabad,Businessman,Low
+61,93,152,49.07,No,Faisalabad,Businessman,Low
+46,59,180,25.53,No,Lahore,Teacher,Low
+61,74,162,47.17,No,Rawalpindi,Engineer,Medium
+59,71,151,11.63,No,Faisalabad,Engineer,Low
+25,82,168,21.96,Yes,Quetta,Engineer,Medium
+45,52,163,22.79,Yes,Islamabad,Shopkeeper,High
+47,54,176,19.9,No,Peshawar,Businessman,High
+61,72,151,41.08,No,Karachi,Teacher,Medium
+25,60,169,30.44,No,Karachi,Software Developer,Medium
+19,69,163,46.32,Yes,Islamabad,Doctor,High
+29,70,188,46.96,No,Islamabad,Farmer,Low
+34,75,190,19.39,Yes,Karachi,Driver,Medium
+53,52,187,17.06,No,Peshawar,Driver,Medium
+64,72,158,34.49,No,Islamabad,Teacher,Low
+25,51,186,38.48,No,Faisalabad,Engineer,Medium
+43,92,186,3.53,No,Islamabad,Doctor,Medium
+46,60,189,27.71,Yes,Quetta,Teacher,Low
+24,84,163,33.11,No,Multan,Businessman,Medium
+28,56,172,19.77,Yes,Faisalabad,Software Developer,High
+55,85,168,3.47,Yes,Multan,Farmer,High
+62,96,167,32.39,No,Faisalabad,Teacher,Medium
+40,90,167,27.09,Yes,Quetta,Driver,Medium
+62,63,175,35.1,No,Lahore,Software Developer,High
+44,82,150,28.06,Yes,Multan,Doctor,High
+48,85,171,23.44,No,Karachi,Shopkeeper,High
+37,77,179,33.51,No,Karachi,Shopkeeper,High
+51,73,154,46.93,No,Faisalabad,Software Developer,Low
+36,66,167,35.28,Yes,Faisalabad,Software Developer,Medium
+25,79,179,4.59,Yes,Rawalpindi,Shopkeeper,Medium
+37,61,171,38.06,Yes,Multan,Farmer,Low
+34,94,164,33.22,No,Multan,Shopkeeper,High
+47,86,151,24.74,No,Lahore,Software Developer,High
+47,61,170,7.28,Yes,Peshawar,Doctor,Medium
+63,65,187,41.48,Yes,Multan,Software Developer,Low
+34,89,158,16.42,No,Rawalpindi,Doctor,High
+55,76,184,19.22,No,Peshawar,Engineer,High
+18,61,151,33.98,Yes,Islamabad,Teacher,High
+65,76,174,14.21,No,Rawalpindi,Software Developer,High
+21,89,155,27.13,No,Multan,Farmer,High
+36,51,163,26.23,No,Peshawar,Software Developer,Medium
+23,100,166,25.86,No,Faisalabad,Doctor,High
+19,91,187,22.04,No,Peshawar,Doctor,Low
+37,64,188,45.3,No,Faisalabad,Teacher,Medium
+60,51,170,12.5,Yes,Peshawar,Software Developer,High
+50,56,167,45.37,Yes,Multan,Doctor,High
+57,58,156,40.13,Yes,Multan,Teacher,High
+24,75,180,19.05,Yes,Multan,Businessman,Low
+26,98,183,9.28,Yes,Lahore,Teacher,High
+20,80,172,22.14,No,Rawalpindi,Driver,Low
+35,60,175,4.79,Yes,Islamabad,Doctor,Medium
+20,92,166,15.02,Yes,Karachi,Doctor,Low
+60,87,179,25.23,No,Peshawar,Shopkeeper,Low
+63,78,177,39.12,Yes,Peshawar,Shopkeeper,Medium
+58,83,155,40.11,No,Multan,Software Developer,Low
+22,64,176,18.0,Yes,Quetta,Farmer,Low
+54,81,183,29.43,No,Rawalpindi,Doctor,Low
+22,61,175,26.53,Yes,Rawalpindi,Teacher,Medium
+19,83,158,45.0,No,Multan,Businessman,High
+30,87,179,2.69,No,Islamabad,Shopkeeper,Low
+51,70,173,26.15,No,Islamabad,Engineer,Medium
+56,78,187,35.08,Yes,Peshawar,Shopkeeper,Low
+34,62,169,39.96,No,Islamabad,Doctor,High
+21,73,152,5.15,No,Lahore,Software Developer,Low
+50,91,172,38.74,No,Karachi,Driver,Low
+62,55,179,10.98,No,Lahore,Teacher,Low
+34,58,179,18.17,No,Karachi,Teacher,Medium
+59,58,188,22.43,No,Quetta,Driver,Medium
+35,57,165,47.05,No,Rawalpindi,Shopkeeper,High
+64,60,161,6.67,Yes,Lahore,Doctor,Low
+18,52,155,18.73,No,Lahore,Doctor,Low
+33,70,156,37.37,No,Peshawar,Businessman,High
+29,92,165,37.92,Yes,Quetta,Driver,High
+50,87,187,39.29,Yes,Quetta,Teacher,Low
+44,64,171,37.79,Yes,Multan,Engineer,Medium
+20,99,189,23.3,No,Multan,Businessman,Medium
+38,78,190,33.81,Yes,Karachi,Shopkeeper,Low
+55,80,156,30.64,No,Quetta,Farmer,Low
+37,60,156,22.85,Yes,Lahore,Farmer,Medium
+35,95,181,24.47,Yes,Karachi,Engineer,High
+50,80,184,6.62,Yes,Faisalabad,Farmer,High
+27,53,177,48.31,Yes,Rawalpindi,Driver,Low
+64,54,153,48.59,Yes,Peshawar,Engineer,High
+24,66,159,40.55,No,Multan,Driver,Low
+30,62,162,33.3,No,Faisalabad,Teacher,High
+24,78,159,36.18,No,Lahore,Businessman,Medium
+30,57,188,36.16,Yes,Rawalpindi,Teacher,High
+59,72,177,7.67,No,Faisalabad,Businessman,Medium
+25,52,175,3.73,No,Lahore,Software Developer,Medium
+48,68,171,46.3,No,Faisalabad,Teacher,Low
+55,96,157,26.35,Yes,Islamabad,Shopkeeper,Medium
+23,81,173,12.52,No,Multan,Driver,High
+63,98,159,29.52,Yes,Multan,Shopkeeper,Low
+33,65,180,4.46,Yes,Rawalpindi,Driver,Low
+44,100,177,22.63,No,Multan,Shopkeeper,High
+19,64,154,9.82,Yes,Rawalpindi,Doctor,High
+60,50,187,23.88,Yes,Multan,Businessman,High
+27,80,188,10.76,Yes,Islamabad,Businessman,Medium
+59,100,155,31.81,No,Lahore,Software Developer,High
+56,60,178,49.17,No,Rawalpindi,Driver,High
+50,90,155,48.14,No,Karachi,Farmer,Low
+41,61,152,6.21,No,Quetta,Engineer,Low
+24,74,165,31.57,No,Lahore,Farmer,Low
+44,64,161,11.29,No,Lahore,Driver,High
+47,67,179,47.05,No,Rawalpindi,Driver,High
+39,56,160,12.51,No,Peshawar,Teacher,Low
+47,79,154,39.75,No,Multan,Software Developer,High
+29,67,178,39.0,Yes,Islamabad,Businessman,Low
+61,89,184,27.79,Yes,Islamabad,Driver,Low
+62,83,158,6.88,No,Islamabad,Software Developer,Medium
+25,50,151,47.16,No,Karachi,Driver,Medium
+33,89,154,17.18,Yes,Faisalabad,Doctor,High
+41,84,189,2.88,Yes,Islamabad,Doctor,Low
+61,74,169,6.07,Yes,Faisalabad,Businessman,High
+20,71,171,31.36,Yes,Islamabad,Software Developer,Medium
+54,96,167,31.94,Yes,Peshawar,Driver,Medium
+59,73,168,9.57,No,Rawalpindi,Driver,Medium
+32,63,174,14.15,Yes,Faisalabad,Farmer,Low
+22,52,155,26.68,Yes,Peshawar,Teacher,High
+50,66,183,22.11,No,Quetta,Software Developer,Low
+63,66,164,33.8,Yes,Lahore,Software Developer,Medium
+37,95,185,8.83,No,Multan,Businessman,High
+34,50,184,39.92,Yes,Multan,Shopkeeper,High
+42,87,180,3.24,Yes,Lahore,Software Developer,High
+28,99,151,35.01,No,Rawalpindi,Businessman,Medium
+27,76,155,49.45,No,Islamabad,Farmer,Low
+36,86,173,11.47,No,Islamabad,Businessman,High
+36,74,153,18.41,Yes,Faisalabad,Software Developer,Medium
+57,70,161,28.32,No,Multan,Software Developer,Low
+52,76,167,5.87,Yes,Faisalabad,Farmer,Low
+58,89,182,30.76,No,Karachi,Engineer,Low
+40,68,168,44.37,Yes,Multan,Software Developer,Medium
+53,77,180,12.57,Yes,Faisalabad,Software Developer,Medium
+41,51,150,22.45,No,Islamabad,Businessman,High
+20,87,170,32.73,Yes,Multan,Driver,Medium
+33,62,158,9.44,No,Karachi,Doctor,Medium
+33,86,153,41.28,Yes,Rawalpindi,Farmer,Medium
+58,54,153,41.17,Yes,Karachi,Software Developer,Low
+23,64,184,21.61,Yes,Faisalabad,Doctor,High
+23,54,190,14.27,Yes,Multan,Doctor,Low
+51,61,181,8.1,No,Karachi,Driver,Medium
+58,55,158,3.86,No,Rawalpindi,Businessman,High
+64,99,158,17.71,Yes,Multan,Businessman,Medium
+23,78,182,12.45,No,Islamabad,Businessman,High
+51,80,159,44.09,Yes,Multan,Doctor,Low
+27,96,186,46.53,Yes,Quetta,Doctor,Medium
+27,65,181,13.11,Yes,Faisalabad,Businessman,Low
+37,83,160,4.97,No,Quetta,Driver,Medium
+28,92,159,33.55,No,Quetta,Teacher,Medium
+48,73,168,2.76,Yes,Faisalabad,Businessman,High
+25,83,174,3.72,Yes,Rawalpindi,Farmer,Medium
+40,66,180,30.11,Yes,Faisalabad,Engineer,Medium
+37,97,153,7.36,No,Islamabad,Doctor,Medium
+49,55,152,4.6,Yes,Islamabad,Businessman,Low
+52,83,150,18.65,No,Lahore,Doctor,High
+39,82,164,20.22,Yes,Karachi,Engineer,Low
+40,53,170,24.06,No,Multan,Shopkeeper,High
+26,98,163,19.41,Yes,Islamabad,Teacher,High
+40,95,154,15.19,Yes,Multan,Shopkeeper,Medium
+60,84,169,32.96,Yes,Faisalabad,Software Developer,Medium
+52,61,157,42.42,No,Islamabad,Doctor,Low
+26,67,180,30.43,No,Faisalabad,Engineer,Low
+28,77,174,48.5,No,Islamabad,Engineer,Low
+58,71,174,12.89,Yes,Multan,Driver,Medium
+61,76,164,45.69,No,Islamabad,Software Developer,Low
+61,86,150,19.98,No,Quetta,Businessman,Medium
+53,84,166,45.24,No,Peshawar,Engineer,Low
+57,63,151,19.74,No,Peshawar,Engineer,Low
+62,94,189,17.67,No,Peshawar,Farmer,Low
+24,52,188,17.69,No,Peshawar,Driver,High
+32,73,186,25.01,No,Rawalpindi,Doctor,Medium
+22,71,172,37.21,No,Multan,Driver,High
+24,85,158,18.9,No,Islamabad,Farmer,High
+51,64,171,42.9,No,Karachi,Engineer,High
+52,53,186,11.85,No,Rawalpindi,Teacher,Medium
+35,78,154,20.77,No,Multan,Doctor,High
+49,73,179,38.21,Yes,Multan,Software Developer,High
+48,97,156,27.34,Yes,Quetta,Teacher,Medium
+32,81,155,18.34,No,Rawalpindi,Doctor,High
+62,56,178,3.52,No,Multan,Businessman,Medium
+41,59,152,19.28,Yes,Quetta,Software Developer,Medium
+57,56,152,22.95,Yes,Karachi,Teacher,High
+20,78,154,7.72,Yes,Rawalpindi,Driver,High
+61,56,168,24.86,Yes,Islamabad,Shopkeeper,Low
+18,94,186,6.45,No,Lahore,Engineer,High
+38,51,175,22.38,No,Islamabad,Engineer,Medium
+42,90,189,14.07,No,Peshawar,Shopkeeper,Low
+47,68,188,49.7,No,Faisalabad,Engineer,Medium
+43,86,190,25.12,No,Lahore,Teacher,Medium
+51,57,180,2.47,Yes,Peshawar,Engineer,Low
+38,55,157,30.81,Yes,Peshawar,Teacher,Medium
+32,95,171,42.69,Yes,Quetta,Doctor,High
+51,53,187,16.29,No,Peshawar,Driver,Medium
+18,58,159,37.36,No,Karachi,Businessman,Low
+24,80,153,28.83,Yes,Quetta,Engineer,Medium
+42,65,190,30.02,No,Islamabad,Farmer,Low
+23,83,181,11.19,Yes,Quetta,Driver,Low
+39,50,190,28.69,Yes,Lahore,Engineer,Medium
+55,86,162,22.55,No,Lahore,Driver,Low
+28,77,185,15.81,Yes,Lahore,Shopkeeper,Low
+28,81,184,37.61,No,Karachi,Engineer,Low
+59,57,172,31.82,No,Multan,Shopkeeper,Low
+48,89,183,42.43,No,Rawalpindi,Engineer,High
+19,78,164,5.57,No,Lahore,Doctor,Medium
+28,99,153,6.92,Yes,Lahore,Teacher,High
+22,52,166,39.83,No,Faisalabad,Software Developer,Medium
+63,67,169,31.73,Yes,Lahore,Doctor,Low
+47,88,172,13.04,No,Multan,Businessman,Medium
+46,72,172,32.82,No,Peshawar,Engineer,High
+33,92,173,39.2,No,Peshawar,Doctor,High
+61,79,156,41.73,Yes,Karachi,Software Developer,Low
+43,92,157,9.33,Yes,Quetta,Businessman,Medium
+18,85,185,5.72,Yes,Multan,Doctor,Medium
+29,88,185,12.71,Yes,Faisalabad,Doctor,High
+52,70,179,14.44,No,Lahore,Software Developer,Low
+38,59,158,25.69,Yes,Multan,Businessman,Low
+51,88,179,19.98,Yes,Faisalabad,Software Developer,Low
+18,100,160,5.7,No,Rawalpindi,Software Developer,High
+55,75,180,48.52,Yes,Peshawar,Businessman,Low
+29,65,161,7.61,No,Islamabad,Driver,High
+62,73,172,26.88,No,Multan,Doctor,High
+39,50,164,31.38,Yes,Faisalabad,Software Developer,Medium
+27,65,186,2.15,Yes,Rawalpindi,Shopkeeper,Low
+24,88,179,29.14,Yes,Quetta,Engineer,High
+49,69,173,30.98,Yes,Islamabad,Doctor,High
+59,98,177,44.83,No,Lahore,Teacher,High
+56,91,185,35.21,No,Islamabad,Driver,Low
+55,78,160,7.24,No,Peshawar,Software Developer,High
+29,62,172,27.7,No,Quetta,Software Developer,High
+39,59,165,10.3,Yes,Islamabad,Engineer,Low
+30,64,168,39.43,No,Faisalabad,Software Developer,High
+57,70,160,8.47,Yes,Quetta,Teacher,Low
+62,90,153,26.6,Yes,Multan,Engineer,High
+39,87,158,20.42,Yes,Karachi,Shopkeeper,High
+23,50,161,36.31,No,Lahore,Software Developer,Medium
+63,56,174,33.47,No,Faisalabad,Software Developer,Low
+49,53,159,30.7,Yes,Rawalpindi,Driver,Low
+65,77,150,21.33,No,Faisalabad,Shopkeeper,Medium
+28,89,158,10.25,Yes,Faisalabad,Teacher,Medium
+36,82,174,32.61,No,Faisalabad,Farmer,High
+61,52,176,18.54,No,Quetta,Farmer,Low
+21,52,175,30.41,Yes,Quetta,Software Developer,High
+52,70,190,20.84,No,Lahore,Shopkeeper,High
+20,91,177,37.17,No,Karachi,Engineer,Medium
+23,57,170,5.89,Yes,Quetta,Shopkeeper,Low
+20,89,185,19.18,Yes,Lahore,Businessman,Low
+23,78,160,37.89,No,Multan,Doctor,Low
+58,81,185,10.79,Yes,Rawalpindi,Driver,Low
+53,95,151,48.66,Yes,Quetta,Teacher,Medium
+26,91,156,43.19,Yes,Rawalpindi,Doctor,Medium
+35,96,190,21.46,Yes,Islamabad,Driver,Low
+59,73,171,12.31,No,Quetta,Engineer,High
+64,57,154,6.25,No,Rawalpindi,Doctor,High
+43,54,165,48.87,No,Lahore,Shopkeeper,High
+31,80,163,22.28,Yes,Peshawar,Software Developer,Medium
+54,79,187,27.47,No,Islamabad,Engineer,Low
+44,62,182,35.09,Yes,Multan,Teacher,Medium
+55,78,158,34.68,Yes,Rawalpindi,Teacher,High
+18,59,173,14.86,No,Rawalpindi,Driver,High
+26,60,176,35.85,No,Lahore,Farmer,Low
+36,50,155,45.0,Yes,Lahore,Software Developer,High
+48,56,185,9.11,Yes,Rawalpindi,Driver,High
+33,97,153,11.12,Yes,Multan,Driver,High
+25,80,154,38.38,Yes,Faisalabad,Farmer,High
+36,96,180,6.24,No,Quetta,Engineer,Low
+55,83,188,17.46,Yes,Peshawar,Shopkeeper,High
+32,55,180,37.14,Yes,Rawalpindi,Doctor,Medium
+44,73,155,11.67,No,Quetta,Farmer,Low
+50,79,160,19.07,Yes,Peshawar,Businessman,Low
+39,88,182,8.62,No,Islamabad,Businessman,High
+38,95,169,28.37,No,Quetta,Businessman,Medium
+64,74,173,5.37,Yes,Faisalabad,Businessman,Medium
+29,57,186,47.19,Yes,Lahore,Businessman,Medium
+62,99,188,9.25,Yes,Karachi,Doctor,High
+26,100,171,17.2,No,Rawalpindi,Engineer,Medium
+42,71,155,7.82,No,Islamabad,Doctor,High
+24,52,180,32.26,No,Rawalpindi,Engineer,High
+29,61,177,23.26,Yes,Rawalpindi,Driver,High
+36,56,163,7.77,No,Rawalpindi,Software Developer,Medium
+57,87,158,28.16,No,Quetta,Software Developer,High
+24,56,161,49.18,No,Faisalabad,Engineer,Medium
+32,75,188,10.17,No,Multan,Teacher,High
+18,97,174,22.27,No,Multan,Driver,High
+23,77,173,41.47,Yes,Islamabad,Software Developer,High
+45,63,176,36.47,No,Lahore,Engineer,Low
+53,63,182,29.98,Yes,Quetta,Driver,High
+47,90,152,44.68,No,Lahore,Farmer,Medium
+41,64,170,23.12,Yes,Faisalabad,Engineer,Medium
+57,86,181,28.42,No,Islamabad,Engineer,Medium
+19,94,187,36.47,No,Multan,Doctor,High
+27,61,179,26.71,No,Peshawar,Farmer,High
+55,76,185,26.57,No,Rawalpindi,Engineer,High
+59,53,165,48.41,No,Faisalabad,Driver,Medium
+19,71,162,26.57,Yes,Faisalabad,Farmer,Medium
+51,90,168,44.23,No,Quetta,Doctor,High
+63,62,185,16.55,Yes,Peshawar,Driver,Medium
+60,61,171,30.82,No,Multan,Software Developer,Medium
+29,69,165,43.14,Yes,Quetta,Software Developer,Medium
+34,94,177,27.43,Yes,Islamabad,Farmer,Medium
+40,53,179,15.65,Yes,Peshawar,Shopkeeper,High
+41,57,175,32.53,Yes,Peshawar,Doctor,Low
+54,63,176,23.86,No,Faisalabad,Software Developer,High
+29,94,188,47.31,Yes,Multan,Shopkeeper,High
+45,72,150,49.33,No,Karachi,Farmer,Low
+51,74,168,37.39,Yes,Multan,Doctor,Low
+48,91,172,28.44,No,Karachi,Doctor,Medium
+25,80,177,40.18,No,Rawalpindi,Farmer,Low
+61,57,190,3.0,Yes,Quetta,Software Developer,High
+33,80,154,6.56,No,Rawalpindi,Driver,High
+24,73,184,20.59,Yes,Lahore,Driver,Low
+18,59,153,14.29,No,Peshawar,Shopkeeper,Medium
+61,52,164,37.24,No,Quetta,Businessman,High
+57,82,181,7.9,No,Faisalabad,Doctor,Low
+32,71,170,18.35,Yes,Faisalabad,Teacher,Medium
+35,53,189,48.24,No,Rawalpindi,Software Developer,High
+28,85,176,46.41,Yes,Karachi,Engineer,Low
+44,79,172,14.41,Yes,Islamabad,Shopkeeper,Medium
+49,89,156,45.57,Yes,Rawalpindi,Shopkeeper,Medium
+28,98,173,44.44,No,Islamabad,Shopkeeper,High
+58,53,169,32.52,Yes,Multan,Farmer,Medium
+32,51,177,37.68,Yes,Multan,Businessman,Medium
+41,100,180,11.49,Yes,Islamabad,Businessman,Low
+29,69,181,19.44,No,Multan,Software Developer,Medium
+59,93,178,32.18,No,Rawalpindi,Doctor,Medium
+23,81,181,11.29,No,Peshawar,Teacher,High
+39,92,167,20.85,No,Peshawar,Farmer,Medium
+33,92,152,6.67,No,Multan,Farmer,Medium
+27,91,188,40.35,No,Islamabad,Driver,Low
+65,59,186,10.58,No,Lahore,Businessman,Medium
+55,87,164,39.93,Yes,Quetta,Teacher,Low
+37,72,186,21.2,No,Faisalabad,Driver,High
+37,60,176,39.05,No,Quetta,Businessman,Medium
+48,82,182,18.2,Yes,Quetta,Shopkeeper,High
+19,50,150,28.87,No,Karachi,Farmer,Medium
+28,80,168,2.52,Yes,Lahore,Teacher,High
+21,58,181,11.94,No,Faisalabad,Doctor,High
+29,93,162,10.97,Yes,Faisalabad,Teacher,Low
+46,72,162,27.59,Yes,Islamabad,Teacher,Medium
+43,95,171,28.07,Yes,Peshawar,Software Developer,High
+48,95,173,38.2,No,Faisalabad,Farmer,High
+21,61,170,46.93,Yes,Rawalpindi,Engineer,Low
+28,52,160,14.94,Yes,Rawalpindi,Businessman,High
+60,50,161,36.52,No,Multan,Driver,High
+38,89,176,8.47,Yes,Islamabad,Doctor,High
+35,92,161,6.39,No,Lahore,Shopkeeper,Medium
+65,57,169,12.63,No,Quetta,Engineer,High
+50,84,184,33.56,No,Karachi,Farmer,Low
+62,57,184,5.9,No,Peshawar,Farmer,Low
+45,86,180,32.78,Yes,Lahore,Software Developer,Medium
+39,88,190,5.5,No,Faisalabad,Doctor,Low
+30,64,153,24.94,Yes,Rawalpindi,Shopkeeper,High
+31,87,177,36.34,Yes,Lahore,Driver,Medium
+42,93,189,49.76,No,Quetta,Businessman,Medium
+25,58,182,39.99,No,Islamabad,Shopkeeper,Low
+34,61,174,11.14,Yes,Islamabad,Engineer,Medium
+53,94,165,39.75,Yes,Karachi,Doctor,Low
+40,63,179,2.27,No,Faisalabad,Driver,High
+42,50,161,17.95,Yes,Islamabad,Businessman,High
+58,78,186,29.46,No,Islamabad,Farmer,High
+27,71,177,37.51,No,Faisalabad,Software Developer,Low
+50,100,163,42.69,Yes,Peshawar,Engineer,High
+46,56,168,5.48,Yes,Faisalabad,Shopkeeper,Low
+57,60,174,10.3,No,Islamabad,Shopkeeper,Low
+44,59,166,17.78,Yes,Karachi,Doctor,Low
+48,64,171,40.22,Yes,Lahore,Teacher,Low
+22,66,162,49.3,No,Faisalabad,Farmer,High
+33,80,179,36.84,Yes,Karachi,Businessman,Medium
+59,81,177,23.56,Yes,Quetta,Doctor,High
+59,68,183,31.18,Yes,Lahore,Teacher,Low
+51,97,164,10.22,Yes,Islamabad,Businessman,High
+25,98,153,30.66,Yes,Faisalabad,Teacher,High
+64,100,177,14.33,Yes,Peshawar,Farmer,Low
+26,87,175,3.42,No,Rawalpindi,Engineer,Low
+62,91,188,39.78,No,Karachi,Businessman,Medium
+22,51,159,42.47,Yes,Multan,Shopkeeper,Medium
+62,71,163,38.11,Yes,Karachi,Shopkeeper,High
+43,66,169,26.32,No,Rawalpindi,Engineer,Low
+43,90,176,36.51,No,Rawalpindi,Doctor,Low
+56,63,156,5.02,Yes,Quetta,Engineer,Low
+34,70,157,8.03,Yes,Karachi,Farmer,Low
+38,77,165,17.54,Yes,Faisalabad,Farmer,High
